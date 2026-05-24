@@ -31,10 +31,10 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-
+[text](myproject/home/templates/index.html)
 
 ## OUTPUT:
 
-
+![alt text](image.png)
 ## RESULT:
-The program for designing book front cover page using HTML and CSS is completed successfully.
+The program for designing book front cover page using HTML and CSS is completed successfully..
